@@ -1,6 +1,6 @@
 ## ➕➖ Calculadora Simples com JavaFX
 
-##🌟 Visão Geral do Projeto
+## 🌟 Visão Geral do Projeto
 Este projeto consiste em uma Calculadora básica desenvolvida em Java, utilizando o framework JavaFX para a criação da interface gráfica de usuário (GUI). O objetivo é demonstrar a proficiência na linguagem Java e a aplicação de conceitos de layout e manipulação de eventos do JavaFX.
 
 | Categoria | Tecnologias |
